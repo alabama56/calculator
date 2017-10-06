@@ -1,0 +1,35 @@
+.num {
+  width: 71px;
+  height: 60px;
+  border: 2px solid black;
+  float: left;
+  line-height: 60px;
+  font-size: 26px; }
+
+.symbol {
+  background-color: palevioletred; }
+
+.calculator-body {
+  height: 450px;
+  width: 400px;
+  margin: 0 auto;
+  background-color: maroon;
+  border: 4px solid black;
+  border-radius: 15px;
+  text-align: center; }
+  .calculator-body #readout {
+    width: 300px;
+    height: 45px;
+    background-color: white;
+    border: 2px solid black;
+    margin: 20px auto;
+    line-height: 45px;
+    font-size: 26px; }
+  .calculator-body #keys-container {
+    width: 300px;
+    height: 320px;
+    background-color: white;
+    margin: 0 auto;
+    border: 2px solid black; }
+
+/*# sourceMappingURL=index.css.map */
